@@ -35,9 +35,4 @@ Please ignore the `_layouts` folder and the `config.yml` file in the root of thi
 
 ---
 
-#### [Instructor-only resources](https://drive.google.com/drive/folders/11RRHpnnKbtMHJp6X21gSzyUslBdvQVZM?usp=drive_link)
-
-
-
-
-
+#### [Instructor-only resources](https://drive.google.com/file/d/1Um6pr8dajZlV7jT0cSzG0k0JBpRddbpw/view?usp=drive_link)
