@@ -19,7 +19,7 @@ An introduction to Python and writing Python code using a Jupyter Notebook.  Wor
 
 | Topic |  About |
 | ------ | ------ |
-|  [python-datatypes.ipynb](python-datatypes.ipynb) | Code-a-long  |
+|  [python-datatypes.ipynb](https://colab.research.google.com/github/ga-curriculum/python-datatypes/blob/main/python-datatypes.ipynb){:target="_blank"} | Code-a-long  |
 
 
 ## Prerequisites
